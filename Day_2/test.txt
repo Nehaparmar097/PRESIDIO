@@ -1,0 +1,12 @@
+https://app.codility.com/demo/results/training5KGTNH-3X5/
+//cyclick rotation
+https://app.codility.com/demo/results/training5PB8HX-GQD/
+//binary gap
+https://app.codility.com/demo/results/trainingK94RBE-2NE/
+//oddoccouranceoflele
+https://app.codility.com/demo/results/trainingZ3QV4E-GHA/
+//frogjump
+https://app.codility.com/demo/results/trainingCHA8NS-5BQ/
+//missingnumber
+https://app.codility.com/demo/results/trainingHA2DWW-Y72/
+//tapequiii.
