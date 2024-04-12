@@ -1,0 +1,15 @@
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\bin\Debug\net6.0\doctorsapp_task.exe
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\bin\Debug\net6.0\doctorsapp_task.deps.json
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\bin\Debug\net6.0\doctorsapp_task.runtimeconfig.json
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\bin\Debug\net6.0\doctorsapp_task.dll
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\bin\Debug\net6.0\doctorsapp_task.pdb
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\doctorsapp_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\doctorsapp_task.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\doctorsapp_task.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\doctorsapp_task.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\doctorsapp_task.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\doctorsapp_task.dll
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\refint\doctorsapp_task.dll
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\doctorsapp_task.pdb
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\doctorsapp_task.genruntimeconfig.cache
+C:\Users\VC\Desktop\Day_1\Day_4\doctorsapp_task\doctorsapp_task\obj\Debug\net6.0\ref\doctorsapp_task.dll

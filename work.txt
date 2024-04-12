@@ -1,7 +1,0 @@
-github
-git
-
-create a repo
-stage ready=marking those files git to monitor
-push to git
-pilling from git
