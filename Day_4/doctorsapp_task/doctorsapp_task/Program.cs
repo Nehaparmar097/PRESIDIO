@@ -10,7 +10,7 @@ namespace doctorsapp_task
     /// </summary>
     /// <param name="id"></param>
     /// <returns></returns>
-        Doctor CreatinAllDetailOfDoctos(int id)
+       public Doctor CreatinAllDetailOfDoctos(int id)
         {
             Doctor doctor = new Doctor(id);
             Console.WriteLine("Please enter the doctor's name");
@@ -38,7 +38,7 @@ namespace doctorsapp_task
             for(int i = 0; i < n; i++)
             {
 
-                doctor[i] = program.CreatinAllDetailOfDoctos(101 + i);
+                doctor[i] = program.CreatinAllDetailOfDoctos(101+i);
             }
             for (int i = 0; i < n; i++)
             {

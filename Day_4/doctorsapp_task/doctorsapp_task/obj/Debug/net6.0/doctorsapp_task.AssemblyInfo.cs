@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("doctorsapp_task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9d268fb08d3b355caf447d4e09e8d0149b24fe2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1858831a6e2bd8fe7814fa822869ffa42ce972f")]
 [assembly: System.Reflection.AssemblyProductAttribute("doctorsapp_task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("doctorsapp_task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

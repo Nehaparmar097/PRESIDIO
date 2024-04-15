@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "requesttrackerApp/1.0.0": {
+        "dependencies": {
+          "requesttrackeremployee": "1.0.0"
+        },
+        "runtime": {
+          "requesttrackerApp.dll": {}
+        }
+      },
+      "requesttrackeremployee/1.0.0": {
+        "runtime": {
+          "requesttrackeremployee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "requesttrackerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "requesttrackeremployee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
