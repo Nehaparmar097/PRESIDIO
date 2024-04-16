@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB4A58F5-E505-4BA1-AF05-8E65CB0B5615}|InterfaceImplementation\\InterfaceImplementation.csproj|c:\\users\\vc\\desktop\\day_1\\day_6\\solution\\interfaceimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB4A58F5-E505-4BA1-AF05-8E65CB0B5615}|InterfaceImplementation\\InterfaceImplementation.csproj|solutionrelative:interfaceimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF659C8D-6857-4E0F-B68E-CC2378BA3008}|GovtRulesLibrary\\GovtRulesLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_6\\solution\\govtruleslibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF659C8D-6857-4E0F-B68E-CC2378BA3008}|GovtRulesLibrary\\GovtRulesLibrary.csproj|solutionrelative:govtruleslibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF659C8D-6857-4E0F-B68E-CC2378BA3008}|GovtRulesLibrary\\GovtRulesLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_6\\solution\\govtruleslibrary\\igovtrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF659C8D-6857-4E0F-B68E-CC2378BA3008}|GovtRulesLibrary\\GovtRulesLibrary.csproj|solutionrelative:govtruleslibrary\\igovtrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF659C8D-6857-4E0F-B68E-CC2378BA3008}|GovtRulesLibrary\\GovtRulesLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_6\\solution\\govtruleslibrary\\abc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF659C8D-6857-4E0F-B68E-CC2378BA3008}|GovtRulesLibrary\\GovtRulesLibrary.csproj|solutionrelative:govtruleslibrary\\abc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF659C8D-6857-4E0F-B68E-CC2378BA3008}|GovtRulesLibrary\\GovtRulesLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_6\\solution\\govtruleslibrary\\cts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF659C8D-6857-4E0F-B68E-CC2378BA3008}|GovtRulesLibrary\\GovtRulesLibrary.csproj|solutionrelative:govtruleslibrary\\cts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ABC.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\GovtRulesLibrary\\ABC.cs",
+              "RelativeDocumentMoniker": "GovtRulesLibrary\\ABC.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\GovtRulesLibrary\\ABC.cs",
+              "RelativeToolTip": "GovtRulesLibrary\\ABC.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:51:17.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CTS.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\GovtRulesLibrary\\CTS.cs",
+              "RelativeDocumentMoniker": "GovtRulesLibrary\\CTS.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\GovtRulesLibrary\\CTS.cs",
+              "RelativeToolTip": "GovtRulesLibrary\\CTS.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswDwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:19:55.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGovtRules.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\GovtRulesLibrary\\IGovtRules.cs",
+              "RelativeDocumentMoniker": "GovtRulesLibrary\\IGovtRules.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\GovtRulesLibrary\\IGovtRules.cs",
+              "RelativeToolTip": "GovtRulesLibrary\\IGovtRules.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:00:31.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\GovtRulesLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "GovtRulesLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\GovtRulesLibrary\\Employee.cs",
+              "RelativeToolTip": "GovtRulesLibrary\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:59:17.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\InterfaceImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceImplementation\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_6\\solution\\InterfaceImplementation\\Program.cs",
+              "RelativeToolTip": "InterfaceImplementation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:58:18.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
