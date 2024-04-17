@@ -1,0 +1,6 @@
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.sourcelink.json

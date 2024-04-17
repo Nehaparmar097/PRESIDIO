@@ -1,0 +1,12 @@
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\DoctorsAppontmentModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\DoctorsAppontmentModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\DoctorsAppontmentModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\DoctorsAppontmentModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\DoctorsAppontmentModelLibrary.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\bin\Debug\net6.0\DoctorsAppontmentModelLibrary.deps.json
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\bin\Debug\net6.0\DoctorsAppontmentModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\bin\Debug\net6.0\DoctorsAppontmentModelLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\DoctorsAppontmentModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\refint\DoctorsAppontmentModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\DoctorsAppontmentModelLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorsAppontmentModelLibrary\obj\Debug\net6.0\ref\DoctorsAppontmentModelLibrary.dll
