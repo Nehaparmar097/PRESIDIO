@@ -1,0 +1,12 @@
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\bin\Debug\net6.0\requestTrackerModelLibrary.deps.json
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\bin\Debug\net6.0\requestTrackerModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\bin\Debug\net6.0\requestTrackerModelLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\requestTrackerModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\requestTrackerModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\requestTrackerModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\requestTrackerModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\requestTrackerModelLibrary.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\requestTrackerModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\refint\requestTrackerModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\requestTrackerModelLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_7\UniversalSolution\requestTrackerLibrary\obj\Debug\net6.0\ref\requestTrackerModelLibrary.dll

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorappointmentdallibrary\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|solutionrelative:doctorappointmentdallibrary\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappontmentmodellibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|solutionrelative:doctorsappontmentmodellibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorappointmentdallibrary\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|solutionrelative:doctorappointmentdallibrary\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{254BB83C-4800-4A6F-BC56-E7E4F17821DE}|DoctorsAppontmentApp\\DoctorsAppontmentApp.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappontmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254BB83C-4800-4A6F-BC56-E7E4F17821DE}|DoctorsAppontmentApp\\DoctorsAppontmentApp.csproj|solutionrelative:doctorsappontmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorappointmentdallibrary\\doctorrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|solutionrelative:doctorappointmentdallibrary\\doctorrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorappointmentdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|solutionrelative:doctorappointmentdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorappointmentdallibrary\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|solutionrelative:doctorappointmentdallibrary\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappontmentmodellibrary\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|solutionrelative:doctorsappontmentmodellibrary\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorappointmentdallibrary\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|solutionrelative:doctorappointmentdallibrary\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E877486-4B43-4627-82AC-2AF56D408671}|DoctorsAppointmentBLLibrary\\DoctorsAppointmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappointmentbllibrary\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{5E877486-4B43-4627-82AC-2AF56D408671}|DoctorsAppointmentBLLibrary\\DoctorsAppointmentBLLibrary.csproj|solutionrelative:doctorsappointmentbllibrary\\doctorsappointmentbllibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappontmentmodellibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|solutionrelative:doctorsappontmentmodellibrary\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappontmentmodellibrary\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|solutionrelative:doctorsappontmentmodellibrary\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappontmentmodellibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}|DoctorsAppontmentModelLibrary\\DoctorsAppontmentModelLibrary.csproj|solutionrelative:doctorsappontmentmodellibrary\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorappointmentdallibrary\\doctorrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}|DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj|solutionrelative:doctorappointmentdallibrary\\doctorrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{254BB83C-4800-4A6F-BC56-E7E4F17821DE}|DoctorsAppontmentApp\\DoctorsAppontmentApp.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappontmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{254BB83C-4800-4A6F-BC56-E7E4F17821DE}|DoctorsAppontmentApp\\DoctorsAppontmentApp.csproj|solutionrelative:doctorsappontmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E877486-4B43-4627-82AC-2AF56D408671}|DoctorsAppointmentBLLibrary\\DoctorsAppointmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_7\\doctorappontmentssolution\\doctorsappointmentbllibrary\\ipatientbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,26 +74,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\IRepository.cs",
               "RelativeDocumentMoniker": "DoctorAppointmentDALLibrary\\IRepository.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\IRepository.cs",
               "RelativeToolTip": "DoctorAppointmentDALLibrary\\IRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T08:51:17.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AppointmentRepo.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\AppointmentRepo.cs",
               "RelativeDocumentMoniker": "DoctorAppointmentDALLibrary\\AppointmentRepo.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\AppointmentRepo.cs",
               "RelativeToolTip": "DoctorAppointmentDALLibrary\\AppointmentRepo.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAABkAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T10:15:52.592Z",
               "EditorCaption": ""
@@ -101,58 +101,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Doctor.cs",
-              "RelativeDocumentMoniker": "DoctorsAppontmentModelLibrary\\Doctor.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Doctor.cs",
-              "RelativeToolTip": "DoctorsAppontmentModelLibrary\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:43:13.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Appointments.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Appointments.cs",
               "RelativeDocumentMoniker": "DoctorsAppontmentModelLibrary\\Appointments.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Appointments.cs",
               "RelativeToolTip": "DoctorsAppontmentModelLibrary\\Appointments.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T08:48:03.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Patient.cs",
-              "RelativeDocumentMoniker": "DoctorsAppontmentModelLibrary\\Patient.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Patient.cs",
-              "RelativeToolTip": "DoctorsAppontmentModelLibrary\\Patient.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:47:41.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoctorsAppointmentBLLibrary",
+              "DocumentIndex": 8,
+              "Title": "DoctorsAppointmentBLLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppointmentBLLibrary\\DoctorsAppointmentBLLibrary.csproj",
               "RelativeDocumentMoniker": "DoctorsAppointmentBLLibrary\\DoctorsAppointmentBLLibrary.csproj",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppointmentBLLibrary\\DoctorsAppointmentBLLibrary.csproj",
               "RelativeToolTip": "DoctorsAppointmentBLLibrary\\DoctorsAppointmentBLLibrary.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T10:43:02.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T10:43:02.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppointmentBLLibrary\\Service.cs",
               "RelativeDocumentMoniker": "DoctorsAppointmentBLLibrary\\Service.cs",
@@ -160,12 +133,11 @@
               "RelativeToolTip": "DoctorsAppointmentBLLibrary\\Service.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:39:25.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T10:39:25.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "PatientRepo.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\PatientRepo.cs",
               "RelativeDocumentMoniker": "DoctorAppointmentDALLibrary\\PatientRepo.cs",
@@ -173,34 +145,58 @@
               "RelativeToolTip": "DoctorAppointmentDALLibrary\\PatientRepo.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAYwAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:50:00.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T08:50:00.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "DoctorRep.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\DoctorRep.cs",
               "RelativeDocumentMoniker": "DoctorAppointmentDALLibrary\\DoctorRep.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\DoctorRep.cs",
               "RelativeToolTip": "DoctorAppointmentDALLibrary\\DoctorRep.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwD0AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T10:15:29.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentApp\\Program.cs",
               "RelativeDocumentMoniker": "DoctorsAppontmentApp\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentApp\\Program.cs",
               "RelativeToolTip": "DoctorsAppontmentApp\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBMAAAArAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T08:42:21.28Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorsAppontmentModelLibrary\\Doctor.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Doctor.cs",
+              "RelativeToolTip": "DoctorsAppontmentModelLibrary\\Doctor.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:43:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Patient.cs",
+              "RelativeDocumentMoniker": "DoctorsAppontmentModelLibrary\\Patient.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorsAppontmentModelLibrary\\Patient.cs",
+              "RelativeToolTip": "DoctorsAppontmentModelLibrary\\Patient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:47:41.779Z"
             },
             {
               "$type": "Document",
@@ -212,8 +208,7 @@
               "RelativeToolTip": "DoctorsAppointmentBLLibrary\\IDoctorBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:43:26.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T10:43:26.775Z"
             },
             {
               "$type": "Document",
@@ -225,12 +220,7 @@
               "RelativeToolTip": "DoctorsAppointmentBLLibrary\\IPatientBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:43:46.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-04-17T10:43:46.679Z"
             },
             {
               "$type": "Document",
@@ -242,21 +232,23 @@
               "RelativeToolTip": "DoctorsAppointmentBLLibrary\\IAppointmentBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:44:10.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T10:44:10.373Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "DoctorAppointmentDALLibrary",
+              "Title": "DoctorAppointmentDALLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj",
               "RelativeDocumentMoniker": "DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_7\\DoctorAppontmentsSolution\\DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj",
               "RelativeToolTip": "DoctorAppointmentDALLibrary\\DoctorAppointmentDALLibrary.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-17T08:50:12.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T08:50:12.118Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

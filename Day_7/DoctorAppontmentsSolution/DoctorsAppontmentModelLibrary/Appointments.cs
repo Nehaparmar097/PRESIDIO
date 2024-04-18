@@ -10,9 +10,10 @@ namespace DoctorsAppontmentModelLibrary
     {   
         public int Id {  get; set; }
         public DateTime DateTime { get; set; }  
-        public string Location { get; set; }   
+        public string Location { get; set; }
 
         // Constructor
+        
         public Appointments(string location)
         {
             DateTime = DateTime.Now; 
