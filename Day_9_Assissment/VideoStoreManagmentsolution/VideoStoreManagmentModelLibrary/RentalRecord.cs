@@ -19,7 +19,7 @@ namespace VideoStoreManagmentModelLibrary
         public RentalRecord()
         {
         }
-
+       //paramitarized constructor
         public RentalRecord(int customerId, int videoId, DateTime rentalDate, DateTime dueDate, DateTime? returnDate, decimal lateFee)
         {
             CustomerId = customerId;
