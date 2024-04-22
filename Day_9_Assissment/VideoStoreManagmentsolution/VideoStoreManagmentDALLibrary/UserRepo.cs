@@ -7,7 +7,7 @@ using VideoStoreManagmentModelLibrary;
 
 namespace CustomerStoreManagmentDALLibrary
 {  /// <summary>
-/// performing crud operation customer 
+/// performing crud operation user
 /// </summary>
     public class UserRepo
     {
