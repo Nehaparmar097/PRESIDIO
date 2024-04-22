@@ -2,7 +2,7 @@
 using System;
 using VideoStoreManagmentModelLibrary;
 using VideoStoreManagmentBLLibrary;
-using VideoStoreManagmentDALLibrary;
+//using VideoStoreManagmentDALLibrary;
 using CustomerStoreManagmentDALLibrary;
 //using CustomerStoreManagmentDALLibrary;
 
