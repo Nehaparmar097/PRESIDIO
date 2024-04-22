@@ -1,0 +1,16 @@
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\bin\Debug\net6.0\VideoStoreManagmentDALLibrary.deps.json
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\bin\Debug\net6.0\VideoStoreManagmentDALLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\bin\Debug\net6.0\VideoStoreManagmentDALLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\bin\Debug\net6.0\VideoStoreManagmentModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\bin\Debug\net6.0\VideoStoreManagmentModelLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoStoreManagmentDALLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoStoreManagmentDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoStoreManagmentDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoStoreManagmentDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoStoreManagmentDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoStoreManagmentDALLibrary.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoSto.14A78F87.Up2Date
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoStoreManagmentDALLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\refint\VideoStoreManagmentDALLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\VideoStoreManagmentDALLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentDALLibrary\obj\Debug\net6.0\ref\VideoStoreManagmentDALLibrary.dll

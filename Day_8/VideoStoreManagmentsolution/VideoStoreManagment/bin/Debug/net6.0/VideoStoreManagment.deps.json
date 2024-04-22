@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VideoStoreManagment/1.0.0": {
+        "dependencies": {
+          "VideoStoreManagmentBLLibrary": "1.0.0",
+          "VideoStoreManagmentDALLibrary": "1.0.0",
+          "VideoStoreManagmentModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "VideoStoreManagment.dll": {}
+        }
+      },
+      "VideoStoreManagmentBLLibrary/1.0.0": {
+        "dependencies": {
+          "VideoStoreManagmentDALLibrary": "1.0.0",
+          "VideoStoreManagmentModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "VideoStoreManagmentBLLibrary.dll": {}
+        }
+      },
+      "VideoStoreManagmentDALLibrary/1.0.0": {
+        "dependencies": {
+          "VideoStoreManagmentModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "VideoStoreManagmentDALLibrary.dll": {}
+        }
+      },
+      "VideoStoreManagmentModelLibrary/1.0.0": {
+        "runtime": {
+          "VideoStoreManagmentModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VideoStoreManagment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VideoStoreManagmentBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VideoStoreManagmentDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VideoStoreManagmentModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

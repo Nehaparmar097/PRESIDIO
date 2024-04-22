@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentbllibrary\\rentalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|solutionrelative:videostoremanagmentbllibrary\\rentalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentbllibrary\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|solutionrelative:videostoremanagmentbllibrary\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564E93CC-4BB5-4F2D-B5A7-D2D0757D3448}|VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentdallibrary\\videostorerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564E93CC-4BB5-4F2D-B5A7-D2D0757D3448}|VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj|solutionrelative:videostoremanagmentdallibrary\\videostorerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564E93CC-4BB5-4F2D-B5A7-D2D0757D3448}|VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentdallibrary\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564E93CC-4BB5-4F2D-B5A7-D2D0757D3448}|VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj|solutionrelative:videostoremanagmentdallibrary\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B8982A-1DF7-4061-B775-8D658EEF081E}|VideoStoreManagment\\VideoStoreManagment.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B8982A-1DF7-4061-B775-8D658EEF081E}|VideoStoreManagment\\VideoStoreManagment.csproj|solutionrelative:videostoremanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentbllibrary\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|solutionrelative:videostoremanagmentbllibrary\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentbllibrary\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|solutionrelative:videostoremanagmentbllibrary\\idnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentbllibrary\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|solutionrelative:videostoremanagmentbllibrary\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBFFC1-17A1-428E-B4D2-E67F94591CCD}|VideoStoreManagmentModelLibrary\\VideoStoreManagmentModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentmodellibrary\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBFFC1-17A1-428E-B4D2-E67F94591CCD}|VideoStoreManagmentModelLibrary\\VideoStoreManagmentModelLibrary.csproj|solutionrelative:videostoremanagmentmodellibrary\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBFFC1-17A1-428E-B4D2-E67F94591CCD}|VideoStoreManagmentModelLibrary\\VideoStoreManagmentModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentmodellibrary\\rentalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBFFC1-17A1-428E-B4D2-E67F94591CCD}|VideoStoreManagmentModelLibrary\\VideoStoreManagmentModelLibrary.csproj|solutionrelative:videostoremanagmentmodellibrary\\rentalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEBFFC1-17A1-428E-B4D2-E67F94591CCD}|VideoStoreManagmentModelLibrary\\VideoStoreManagmentModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentmodellibrary\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEBFFC1-17A1-428E-B4D2-E67F94591CCD}|VideoStoreManagmentModelLibrary\\VideoStoreManagmentModelLibrary.csproj|solutionrelative:videostoremanagmentmodellibrary\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564E93CC-4BB5-4F2D-B5A7-D2D0757D3448}|VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564E93CC-4BB5-4F2D-B5A7-D2D0757D3448}|VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj|solutionrelative:videostoremanagmentdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentbllibrary\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|solutionrelative:videostoremanagmentbllibrary\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentbllibrary\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8C4B06-8C8C-412E-9833-603BEA196020}|VideoStoreManagmentBLLibrary\\VideoStoreManagmentBLLibrary.csproj|solutionrelative:videostoremanagmentbllibrary\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564E93CC-4BB5-4F2D-B5A7-D2D0757D3448}|VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day_8\\videostoremanagmentsolution\\videostoremanagmentdallibrary\\videostoremanagmentdallibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{564E93CC-4BB5-4F2D-B5A7-D2D0757D3448}|VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj|solutionrelative:videostoremanagmentdallibrary\\videostoremanagmentdallibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentBLLibrary\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\ICustomerService.cs",
+              "RelativeToolTip": "VideoStoreManagmentBLLibrary\\ICustomerService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:33:48.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDnotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\IDnotFoundException.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentBLLibrary\\IDnotFoundException.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\IDnotFoundException.cs",
+              "RelativeToolTip": "VideoStoreManagmentBLLibrary\\IDnotFoundException.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:28:49.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentDALLibrary\\IRepository.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentDALLibrary\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentDALLibrary\\IRepository.cs",
+              "RelativeToolTip": "VideoStoreManagmentDALLibrary\\IRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:29:08.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagment\\Program.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagment\\Program.cs",
+              "RelativeToolTip": "VideoStoreManagment\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAWwCkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:12:07.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\RentalBL.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentBLLibrary\\RentalBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\RentalBL.cs",
+              "RelativeToolTip": "VideoStoreManagmentBLLibrary\\RentalBL.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwD0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:38:46.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentDALLibrary\\UserRepo.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentDALLibrary\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentDALLibrary\\UserRepo.cs",
+              "RelativeToolTip": "VideoStoreManagmentDALLibrary\\UserRepo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:31:11.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoStoreRepo.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentDALLibrary\\VideoStoreRepo.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentDALLibrary\\VideoStoreRepo.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentDALLibrary\\VideoStoreRepo.cs",
+              "RelativeToolTip": "VideoStoreManagmentDALLibrary\\VideoStoreRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:28:13.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\VideoService.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentBLLibrary\\VideoService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\VideoService.cs",
+              "RelativeToolTip": "VideoStoreManagmentBLLibrary\\VideoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:31:56.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\IRentalService.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentBLLibrary\\IRentalService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\IRentalService.cs",
+              "RelativeToolTip": "VideoStoreManagmentBLLibrary\\IRentalService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:40:00.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentModelLibrary\\Video.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentModelLibrary\\Video.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentModelLibrary\\Video.cs",
+              "RelativeToolTip": "VideoStoreManagmentModelLibrary\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:13:34.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RentalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentModelLibrary\\RentalRecord.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentModelLibrary\\RentalRecord.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentModelLibrary\\RentalRecord.cs",
+              "RelativeToolTip": "VideoStoreManagmentModelLibrary\\RentalRecord.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA7wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:44:34.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentModelLibrary\\Customer.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentModelLibrary\\Customer.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentModelLibrary\\Customer.cs",
+              "RelativeToolTip": "VideoStoreManagmentModelLibrary\\Customer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:14:46.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IvideoService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\IvideoService.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentBLLibrary\\IvideoService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\IvideoService.cs",
+              "RelativeToolTip": "VideoStoreManagmentBLLibrary\\IvideoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:31:12.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\CustomerService.cs",
+              "RelativeDocumentMoniker": "VideoStoreManagmentBLLibrary\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentBLLibrary\\CustomerService.cs",
+              "RelativeToolTip": "VideoStoreManagmentBLLibrary\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:34:59.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VideoStoreManagmentDALLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj",
+              "RelativeDocumentMoniker": "VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_8\\VideoStoreManagmentsolution\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj",
+              "RelativeToolTip": "VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T04:28:24.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

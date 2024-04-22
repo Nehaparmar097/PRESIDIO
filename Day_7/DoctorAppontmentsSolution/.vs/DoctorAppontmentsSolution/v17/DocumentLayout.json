@@ -82,8 +82,7 @@
               "RelativeToolTip": "DoctorAppointmentDALLibrary\\IRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:51:17.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T08:51:17.573Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "DoctorAppointmentDALLibrary\\AppointmentRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:15:52.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T10:15:52.592Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "DoctorsAppontmentModelLibrary\\Appointments.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:48:03.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T08:48:03.838Z"
             },
             {
               "$type": "Document",
@@ -157,8 +154,7 @@
               "RelativeToolTip": "DoctorAppointmentDALLibrary\\DoctorRep.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:15:29.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T10:15:29.714Z"
             },
             {
               "$type": "Document",
@@ -170,8 +166,7 @@
               "RelativeToolTip": "DoctorsAppontmentApp\\Program.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAAACYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:42:21.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T08:42:21.28Z"
             },
             {
               "$type": "Document",
@@ -245,10 +240,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-17T08:50:12.118Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

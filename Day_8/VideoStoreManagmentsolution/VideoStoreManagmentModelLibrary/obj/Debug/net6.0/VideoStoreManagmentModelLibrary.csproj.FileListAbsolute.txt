@@ -1,0 +1,12 @@
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\bin\Debug\net6.0\VideoStoreManagmentModelLibrary.deps.json
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\bin\Debug\net6.0\VideoStoreManagmentModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\bin\Debug\net6.0\VideoStoreManagmentModelLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\VideoStoreManagmentModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\VideoStoreManagmentModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\VideoStoreManagmentModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\VideoStoreManagmentModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\VideoStoreManagmentModelLibrary.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\VideoStoreManagmentModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\refint\VideoStoreManagmentModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\VideoStoreManagmentModelLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_8\VideoStoreManagmentsolution\VideoStoreManagmentModelLibrary\obj\Debug\net6.0\ref\VideoStoreManagmentModelLibrary.dll
