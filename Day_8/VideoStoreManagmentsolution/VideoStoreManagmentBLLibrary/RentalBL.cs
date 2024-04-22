@@ -22,7 +22,7 @@ namespace VideoStoreManagmentBLLibrary
                 var video = videos.FirstOrDefault(v => v.VideoId == videoId && v.AvailabilityStatus);
                 if (video == null)
                 {
-                    Console.WriteLine("Video is not available.");
+                    Console.WriteLine("Video is not noww available.");
                     return;
                 }
 
