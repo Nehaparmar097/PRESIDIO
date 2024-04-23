@@ -3,7 +3,7 @@ using VideoStoreManagmentModelLibrary;
 
 namespace VideoStoreManagmentBLLibrary
 {
-      // File: RentalManager.cs in the RentalBL library
+    
         public class RentalBL : IRentalService
         {
             private readonly List<Video> videos;

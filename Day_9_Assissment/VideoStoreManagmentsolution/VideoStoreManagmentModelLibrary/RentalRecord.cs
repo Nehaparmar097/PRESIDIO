@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//
 namespace VideoStoreManagmentModelLibrary
 {
     public class RentalRecord
@@ -19,7 +19,7 @@ namespace VideoStoreManagmentModelLibrary
         public RentalRecord()
         {
         }
-
+       //paramitarized constructor
         public RentalRecord(int customerId, int videoId, DateTime rentalDate, DateTime dueDate, DateTime? returnDate, decimal lateFee)
         {
             CustomerId = customerId;

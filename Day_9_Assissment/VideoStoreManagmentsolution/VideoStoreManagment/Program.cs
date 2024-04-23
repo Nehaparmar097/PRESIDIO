@@ -2,7 +2,7 @@
 using System;
 using VideoStoreManagmentModelLibrary;
 using VideoStoreManagmentBLLibrary;
-using VideoStoreManagmentDALLibrary;
+//using VideoStoreManagmentDALLibrary;
 using CustomerStoreManagmentDALLibrary;
 //using CustomerStoreManagmentDALLibrary;
 
@@ -88,7 +88,7 @@ namespace VideoStoreManagment
                 if (video != null)
                 {
                     Console.WriteLine($"Renting video '{video.VideoTitle}' for customer '{customer.Name}'.");
-
+                     Console.WriteLine(DateTime.Now);
                 }
                 else
                 {
