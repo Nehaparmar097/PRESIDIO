@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "requestTrackerLibrary", "re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequestTrackerDALLibrary", "RequestTrackerDALLibrary\RequestTrackerDALLibrary.csproj", "{FCF0E00E-3635-425E-905A-89FAFCE8BA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestTrackerBLLibrary", "RequestTrackerBLLibrary\RequestTrackerBLLibrary.csproj", "{6613BA0A-F497-4CD8-A65C-BB1F22BB31A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequestTrackerBLLibrary", "RequestTrackerBLLibrary\RequestTrackerBLLibrary.csproj", "{6613BA0A-F497-4CD8-A65C-BB1F22BB31A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTest", "AppTest\AppTest.csproj", "{2A2565B6-C073-4149-ADDD-4FC2B46A8027}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6613BA0A-F497-4CD8-A65C-BB1F22BB31A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6613BA0A-F497-4CD8-A65C-BB1F22BB31A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6613BA0A-F497-4CD8-A65C-BB1F22BB31A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2565B6-C073-4149-ADDD-4FC2B46A8027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2565B6-C073-4149-ADDD-4FC2B46A8027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2565B6-C073-4149-ADDD-4FC2B46A8027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2565B6-C073-4149-ADDD-4FC2B46A8027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

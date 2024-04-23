@@ -10,7 +10,11 @@ namespace VideoStoreManagmentBLLibrary
             private readonly List<Customer> customers;
             private readonly List<RentalRecord> rentalRecords;
 
-            public RentalBL(List<Video> videos, List<Customer> customers, List<RentalRecord> rentalRecords)
+        public RentalBL()
+        {
+        }
+
+        public RentalBL(List<Video> videos, List<Customer> customers, List<RentalRecord> rentalRecords)
             {
                 this.videos = videos;
                 this.customers = customers;

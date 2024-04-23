@@ -70,45 +70,56 @@ namespace VideoStoreManagment
             Console.WriteLine("\nAll Videos:");
             foreach (var v in allVideos)
             {
-                Console.WriteLine($"ID: {v.VideoId}, Title: {v.VideoTitle}, Genre: {v.VideoGenre}");
+                Console.WriteLine($"ID: {v.VideoId}, Title: {v.VideoTitle}, Genre: {v.VideoGenre} , avialability :{v.AvailabilityStatus}");
             }
         }
-
+        
         static void RentVideo(IVideoService videoService, ICustomerService customerService)
         {
-            Console.Write("Enter Customer ID: ");
-            int customerId = int.Parse(Console.ReadLine());
-            Console.Write("Enter Video ID to rent: ");
-            int videoId = int.Parse(Console.ReadLine());
+              Console.Write("Enter Customer ID: ");
+              int customerId = int.Parse(Console.ReadLine());
+              Console.Write("Enter Video ID to rent: ");
+              int videoId = int.Parse(Console.ReadLine());
 
-            var customer = customerService.GetCustomerById(customerId);
-            if (customer != null)
-            {
-                var video = videoService.GetAllVideos().FirstOrDefault(v => v.VideoId == videoId);
-                if (video != null)
-                {
-                    Console.WriteLine($"Renting video '{video.VideoTitle}' for customer '{customer.Name}'.");
+              var customer = customerService.GetCustomerById(customerId);
+              if (customer != null)
+              {
+                  var video = videoService.GetAllVideos().FirstOrDefault(v => v.VideoId == videoId);
+                  if (video != null)
+                  {
+                      Console.WriteLine($"Renting video '{video.VideoTitle}' for customer '{customer.Name}'.");
+                      Console.WriteLine(DateTime.Now);
+                      
 
-                }
-                else
-                {
-                    Console.WriteLine($"Video with ID '{videoId}' not found.");
-                }
-            }
-            else
-            {
-                Console.WriteLine($"Customer with ID '{customerId}' not found.");
-            }
+                  }
+                  else
+                  {
+                      Console.WriteLine($"Video with ID '{videoId}' not found.");
+                  }
+              }
+              else
+              {
+                  Console.WriteLine($"Customer with ID '{customerId}' not found.");
+              }
+           
+          
         }
+       
+            //static void returnVideo(IRentalService videoService, ICustomerService customerService)
             static void Main(string[] args)
             {
-                var videoRepo = new VideoStoreRepo();
+
+            
+
+
+            var videoRepo = new VideoStoreRepo();
                 var customerRepo = new UserRepo();
 
                 var videoService = new VideoService(videoRepo.GetAll());
                 var customerService = new CustomerService(customerRepo.GetAll());
-
-                bool exit = false;
+              /*  var Rantal = new RentalBL();
+                Rantal.ReturnVideo();*/
+            bool exit = false;
                 while (!exit)
                 {
                     DisplayMainMenu();
@@ -126,9 +137,10 @@ namespace VideoStoreManagment
                             ShowAllVideos(videoService);
                             break;
                         case 4:
-                            RentVideo(videoService, customerService);
+                            RentVideo(videoService,customerService);
                             break;
-                        case 5:
+                        
+                        case 6:
                             exit = true;
                             break;
                         default:
@@ -138,7 +150,8 @@ namespace VideoStoreManagment
                 }
             }
 
-        }
+     
+    }
 
     }
 

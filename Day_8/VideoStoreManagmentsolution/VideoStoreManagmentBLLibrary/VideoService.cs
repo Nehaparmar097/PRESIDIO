@@ -25,5 +25,25 @@ namespace VideoStoreManagmentBLLibrary
         {
             return videos;
         }
+
+        public object GetVideoById(int videoId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool IsVideoAvailable(int videoId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RentVideo(int videoId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void ReturnVideo(int videoId)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

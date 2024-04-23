@@ -11,5 +11,9 @@ namespace VideoStoreManagmentBLLibrary
     {
         void AddVideo(Video video);
         List<Video> GetAllVideos();
+        object GetVideoById(int videoId);
+        bool IsVideoAvailable(int videoId);
+        void RentVideo(int videoId);
+        void ReturnVideo(int videoId);
     }
 }

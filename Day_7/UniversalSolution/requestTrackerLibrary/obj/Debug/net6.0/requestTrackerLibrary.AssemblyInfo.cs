@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("requestTrackerLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12102270ffcd441925a889662e07f28430329c0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1120983e58eab270ca296d8c3ddd76e5c8b3f3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("requestTrackerLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("requestTrackerLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

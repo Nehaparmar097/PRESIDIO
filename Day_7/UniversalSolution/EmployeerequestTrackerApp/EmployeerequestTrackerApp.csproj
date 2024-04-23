@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RequestTrackerBLLibrary\RequestTrackerBLLibrary.csproj" />
+    <ProjectReference Include="..\RequestTrackerDALLibrary\RequestTrackerDALLibrary.csproj" />
     <ProjectReference Include="..\requestTrackerLibrary\requestTrackerLibrary.csproj" />
   </ItemGroup>
 
