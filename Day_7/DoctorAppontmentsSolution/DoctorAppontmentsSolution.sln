@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorsAppontmentApp", "DoctorsAppontmentApp\DoctorsAppontmentApp.csproj", "{254BB83C-4800-4A6F-BC56-E7E4F17821DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorsAppontmentApp", "DoctorsAppontmentApp\DoctorsAppontmentApp.csproj", "{254BB83C-4800-4A6F-BC56-E7E4F17821DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorsAppontmentModelLibrary", "DoctorsAppontmentModelLibrary\DoctorsAppontmentModelLibrary.csproj", "{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorsAppontmentModelLibrary", "DoctorsAppontmentModelLibrary\DoctorsAppontmentModelLibrary.csproj", "{ABDBDB6F-2E16-4E1D-B0F7-A6D9DC2E1485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorAppointmentDALLibrary", "DoctorAppointmentDALLibrary\DoctorAppointmentDALLibrary.csproj", "{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorAppointmentDALLibrary", "DoctorAppointmentDALLibrary\DoctorAppointmentDALLibrary.csproj", "{4B2BCDFF-2E91-4E6E-AAA2-88EAB7EE7D5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorsAppointmentBLLibrary", "DoctorsAppointmentBLLibrary\DoctorsAppointmentBLLibrary.csproj", "{5E877486-4B43-4627-82AC-2AF56D408671}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorsAppointmentBLLibrary", "DoctorsAppointmentBLLibrary\DoctorsAppointmentBLLibrary.csproj", "{5E877486-4B43-4627-82AC-2AF56D408671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryTest", "RepositoryTest\RepositoryTest.csproj", "{9531E2A6-C122-40DB-A76F-5D29F4A2C750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5E877486-4B43-4627-82AC-2AF56D408671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E877486-4B43-4627-82AC-2AF56D408671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E877486-4B43-4627-82AC-2AF56D408671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9531E2A6-C122-40DB-A76F-5D29F4A2C750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9531E2A6-C122-40DB-A76F-5D29F4A2C750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9531E2A6-C122-40DB-A76F-5D29F4A2C750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9531E2A6-C122-40DB-A76F-5D29F4A2C750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

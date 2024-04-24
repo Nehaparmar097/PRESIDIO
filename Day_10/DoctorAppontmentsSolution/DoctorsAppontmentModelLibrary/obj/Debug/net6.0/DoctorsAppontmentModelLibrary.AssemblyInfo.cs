@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoctorsAppontmentModelLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74342c0b5e35ce030575c4b86352b685aa5f69d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+918ee9e97c2f3693ec251ab7aeefdbfeee068b8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoctorsAppontmentModelLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoctorsAppontmentModelLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

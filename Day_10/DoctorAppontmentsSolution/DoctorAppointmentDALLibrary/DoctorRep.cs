@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DoctorAppointmentDALLibrary
 {
-    internal class DoctorRep : IRepository<int, Doctor>
+    public class DoctorRep : IRepository<int, Doctor>
     {
         readonly Dictionary<int, Doctor> _Doctor;
         public DoctorRep()
