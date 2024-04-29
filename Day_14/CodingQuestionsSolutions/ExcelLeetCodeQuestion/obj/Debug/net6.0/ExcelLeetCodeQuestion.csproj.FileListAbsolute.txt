@@ -1,0 +1,15 @@
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\bin\Debug\net6.0\ExcelLeetCodeQuestion.exe
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\bin\Debug\net6.0\ExcelLeetCodeQuestion.deps.json
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\bin\Debug\net6.0\ExcelLeetCodeQuestion.runtimeconfig.json
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\bin\Debug\net6.0\ExcelLeetCodeQuestion.dll
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\bin\Debug\net6.0\ExcelLeetCodeQuestion.pdb
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ExcelLeetCodeQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ExcelLeetCodeQuestion.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ExcelLeetCodeQuestion.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ExcelLeetCodeQuestion.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ExcelLeetCodeQuestion.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ExcelLeetCodeQuestion.dll
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\refint\ExcelLeetCodeQuestion.dll
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ExcelLeetCodeQuestion.pdb
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ExcelLeetCodeQuestion.genruntimeconfig.cache
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\ExcelLeetCodeQuestion\obj\Debug\net6.0\ref\ExcelLeetCodeQuestion.dll

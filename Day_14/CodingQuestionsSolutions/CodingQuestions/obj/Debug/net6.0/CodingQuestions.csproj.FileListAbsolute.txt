@@ -1,0 +1,15 @@
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\bin\Debug\net6.0\CodingQuestions.exe
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\bin\Debug\net6.0\CodingQuestions.deps.json
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\bin\Debug\net6.0\CodingQuestions.runtimeconfig.json
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\bin\Debug\net6.0\CodingQuestions.dll
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\bin\Debug\net6.0\CodingQuestions.pdb
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\CodingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\CodingQuestions.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\CodingQuestions.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\CodingQuestions.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\CodingQuestions.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\CodingQuestions.dll
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\refint\CodingQuestions.dll
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\CodingQuestions.pdb
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\CodingQuestions.genruntimeconfig.cache
+C:\Users\VC\Desktop\Day_1\Day_14\CodingQuestionsSolutions\CodingQuestions\obj\Debug\net6.0\ref\CodingQuestions.dll
