@@ -121,6 +121,15 @@ INSERT INTO SALES (salesno, saleqty, itemname, deptname) VALUES
 (125, 1, 'Elephant Polo stick', 'Recreation'),
 (126, 1, 'Camel Saddle', 'Recreation');
 
+
+alter table sales
+add constraint itemnameFK foreign key (itemname)
+references ITEM(itemname) ;
+
+alter table sales
+add constraint fk foreign key (deptname)
+references DEPARTMENTT(deptname);
+
 select *from empp
 select *from departmentt
 select *from sales
