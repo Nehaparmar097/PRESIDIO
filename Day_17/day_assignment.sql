@@ -87,5 +87,5 @@ select o.ord_num, od.title
 from sales o
 join titles od on o.title_id = od.title_id
 join titleauthor b on od.title_id = b.title_id
-join authors a on b.au_id = a.au_id
-where a.au_lname = 'Paolo';
+join employee e on od.pub_id=e.pub_id
+where e.fname = 'Paolo';

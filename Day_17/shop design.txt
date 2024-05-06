@@ -1,0 +1,6 @@
+Customer (id:pk, phno, name, email)
+Product (id:pk, avl_in_stock, name, price)
+Supplier (id:pk, name, address)
+Order (orderid:pk, custid:fk, address, discount)
+ProductSupplier (productid:fk, suplid:fk)
+OrderDetail (id:pk, orderid:fk, productid:fk, quantity)
