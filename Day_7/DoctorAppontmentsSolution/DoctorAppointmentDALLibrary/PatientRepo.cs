@@ -1,5 +1,5 @@
 ﻿
-using DoctorsAppontmentModelLibrary;
+using DoctorAppointmentDALLibrary.models;
 namespace DoctorAppointmentDALLibrary
 {
     public class PatientRepo: IRepository<int, Patient>

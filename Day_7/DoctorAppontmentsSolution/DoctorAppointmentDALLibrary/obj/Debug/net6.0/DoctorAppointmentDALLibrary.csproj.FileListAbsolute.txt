@@ -14,3 +14,5 @@ C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLi
 C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\refint\DoctorAppointmentDALLibrary.dll
 C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.pdb
 C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\ref\DoctorAppointmentDALLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\bin\Debug\net6.0\DoctorAppointmentDALLibrary.runtimeconfig.json
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.genruntimeconfig.cache

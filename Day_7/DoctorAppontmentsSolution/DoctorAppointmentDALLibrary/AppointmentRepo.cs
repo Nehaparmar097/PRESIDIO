@@ -1,9 +1,11 @@
-﻿using DoctorsAppontmentModelLibrary;
+﻿using DoctorAppointmentDALLibrary.models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//Scaffold-DbContext "data source=DESKTOP-QL1TE6V\SQLEXPRESS;Integrated security=true;Initial Catalog=dbDoctorPatient;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model
+
 
 namespace DoctorAppointmentDALLibrary
 {
