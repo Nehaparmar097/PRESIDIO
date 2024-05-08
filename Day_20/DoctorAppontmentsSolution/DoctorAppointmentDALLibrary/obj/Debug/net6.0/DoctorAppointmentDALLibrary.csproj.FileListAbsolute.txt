@@ -1,0 +1,16 @@
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\bin\Debug\net6.0\DoctorAppointmentDALLibrary.deps.json
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\bin\Debug\net6.0\DoctorAppointmentDALLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\bin\Debug\net6.0\DoctorAppointmentDALLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\bin\Debug\net6.0\DoctorsAppontmentModelLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\bin\Debug\net6.0\DoctorsAppontmentModelLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.csproj.AssemblyReference.cache
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAp.3B0B57B3.Up2Date
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\refint\DoctorAppointmentDALLibrary.dll
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\DoctorAppointmentDALLibrary.pdb
+C:\Users\VC\Desktop\Day_1\Day_7\DoctorAppontmentsSolution\DoctorAppointmentDALLibrary\obj\Debug\net6.0\ref\DoctorAppointmentDALLibrary.dll

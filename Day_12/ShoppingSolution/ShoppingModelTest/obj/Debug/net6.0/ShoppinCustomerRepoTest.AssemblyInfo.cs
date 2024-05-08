@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShoppinCustomerRepoTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c1d2315665716fa8d0c44f69efaa29791dd02fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b505a026ec7a98df53ea8ead7afea2767bd2ead3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShoppinCustomerRepoTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShoppinCustomerRepoTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

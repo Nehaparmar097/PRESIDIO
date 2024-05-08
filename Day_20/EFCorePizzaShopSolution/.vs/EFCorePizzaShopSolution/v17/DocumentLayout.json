@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\Migrations\\20240508073515_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFCorePizzaShop\\Migrations\\20240508073515_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74045AC9-3637-4F5D-A305-2D0F4A090A95}|EFCorePizzaShop\\EFCorePizzaShop.csproj|c:\\users\\vc\\desktop\\day_1\\day_20\\efcorepizzashopsolution\\efcorepizzashop\\context\\pizzashop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74045AC9-3637-4F5D-A305-2D0F4A090A95}|EFCorePizzaShop\\EFCorePizzaShop.csproj|solutionrelative:efcorepizzashop\\context\\pizzashop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74045AC9-3637-4F5D-A305-2D0F4A090A95}|EFCorePizzaShop\\EFCorePizzaShop.csproj|c:\\users\\vc\\desktop\\day_1\\day_20\\efcorepizzashopsolution\\efcorepizzashop\\efcorepizzashop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74045AC9-3637-4F5D-A305-2D0F4A090A95}|EFCorePizzaShop\\EFCorePizzaShop.csproj|solutionrelative:efcorepizzashop\\efcorepizzashop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74045AC9-3637-4F5D-A305-2D0F4A090A95}|EFCorePizzaShop\\EFCorePizzaShop.csproj|c:\\users\\vc\\desktop\\day_1\\day_20\\efcorepizzashopsolution\\efcorepizzashop\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74045AC9-3637-4F5D-A305-2D0F4A090A95}|EFCorePizzaShop\\EFCorePizzaShop.csproj|solutionrelative:efcorepizzashop\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74045AC9-3637-4F5D-A305-2D0F4A090A95}|EFCorePizzaShop\\EFCorePizzaShop.csproj|c:\\users\\vc\\desktop\\day_1\\day_20\\efcorepizzashopsolution\\efcorepizzashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74045AC9-3637-4F5D-A305-2D0F4A090A95}|EFCorePizzaShop\\EFCorePizzaShop.csproj|solutionrelative:efcorepizzashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240508073515_First.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\Migrations\\20240508073515_First.cs",
+              "RelativeDocumentMoniker": "EFCorePizzaShop\\Migrations\\20240508073515_First.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\Migrations\\20240508073515_First.cs",
+              "RelativeToolTip": "EFCorePizzaShop\\Migrations\\20240508073515_First.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:35:15.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaShop.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\context\\PizzaShop.cs",
+              "RelativeDocumentMoniker": "EFCorePizzaShop\\context\\PizzaShop.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\context\\PizzaShop.cs",
+              "RelativeToolTip": "EFCorePizzaShop\\context\\PizzaShop.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:33:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFCorePizzaShop",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\EFCorePizzaShop.csproj",
+              "RelativeDocumentMoniker": "EFCorePizzaShop\\EFCorePizzaShop.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\EFCorePizzaShop.csproj",
+              "RelativeToolTip": "EFCorePizzaShop\\EFCorePizzaShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T07:22:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\models\\Pizza.cs",
+              "RelativeDocumentMoniker": "EFCorePizzaShop\\models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\models\\Pizza.cs",
+              "RelativeToolTip": "EFCorePizzaShop\\models\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:22:43.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\Program.cs",
+              "RelativeDocumentMoniker": "EFCorePizzaShop\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_20\\EFCorePizzaShopSolution\\EFCorePizzaShop\\Program.cs",
+              "RelativeToolTip": "EFCorePizzaShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:21:53.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
