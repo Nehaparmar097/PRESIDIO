@@ -1,0 +1,15 @@
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\bin\Debug\net6.0\EmployeeRequestTrackerdb.deps.json
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\bin\Debug\net6.0\EmployeeRequestTrackerdb.runtimeconfig.json
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\bin\Debug\net6.0\EmployeeRequestTrackerdb.dll
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\bin\Debug\net6.0\EmployeeRequestTrackerdb.pdb
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.csproj.AssemblyReference.cache
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.AssemblyInfo.cs
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.sourcelink.json
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.dll
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\refint\EmployeeRequestTrackerdb.dll
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.pdb
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\EmployeeRequestTrackerdb.genruntimeconfig.cache
+C:\Users\VC\Desktop\Day_1\Day_21\EmployeeRequestTrackerdbSolution\EmployeeRequestTrackerdb\obj\Debug\net6.0\ref\EmployeeRequestTrackerdb.dll

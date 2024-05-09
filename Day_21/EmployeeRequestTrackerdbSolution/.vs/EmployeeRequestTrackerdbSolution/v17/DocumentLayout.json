@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Migrations\\20240509073832_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeRequestTrackerdb\\Migrations\\20240509073832_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D1A73A-3CB2-49AE-B53A-EA1ED30763C6}|EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj|c:\\users\\vc\\desktop\\day_1\\day_21\\employeerequesttrackerdbsolution\\employeerequesttrackerdb\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D1A73A-3CB2-49AE-B53A-EA1ED30763C6}|EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj|solutionrelative:employeerequesttrackerdb\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D1A73A-3CB2-49AE-B53A-EA1ED30763C6}|EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj|c:\\users\\vc\\desktop\\day_1\\day_21\\employeerequesttrackerdbsolution\\employeerequesttrackerdb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D1A73A-3CB2-49AE-B53A-EA1ED30763C6}|EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj|solutionrelative:employeerequesttrackerdb\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D1A73A-3CB2-49AE-B53A-EA1ED30763C6}|EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj|c:\\users\\vc\\desktop\\day_1\\day_21\\employeerequesttrackerdbsolution\\employeerequesttrackerdb\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D1A73A-3CB2-49AE-B53A-EA1ED30763C6}|EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj|solutionrelative:employeerequesttrackerdb\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Migrations\\20240509070041_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeRequestTrackerdb\\Migrations\\20240509070041_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D1A73A-3CB2-49AE-B53A-EA1ED30763C6}|EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj|c:\\users\\vc\\desktop\\day_1\\day_21\\employeerequesttrackerdbsolution\\employeerequesttrackerdb\\employeerequesttrackerdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82D1A73A-3CB2-49AE-B53A-EA1ED30763C6}|EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj|solutionrelative:employeerequesttrackerdb\\employeerequesttrackerdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240509073832_First.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Migrations\\20240509073832_First.cs",
+              "RelativeDocumentMoniker": "EmployeeRequestTrackerdb\\Migrations\\20240509073832_First.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Migrations\\20240509073832_First.cs",
+              "RelativeToolTip": "EmployeeRequestTrackerdb\\Migrations\\20240509073832_First.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:38:33.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240509070041_First.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Migrations\\20240509070041_First.cs",
+              "RelativeDocumentMoniker": "EmployeeRequestTrackerdb\\Migrations\\20240509070041_First.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Migrations\\20240509070041_First.cs",
+              "RelativeToolTip": "EmployeeRequestTrackerdb\\Migrations\\20240509070041_First.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:00:41.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRequestTrackerdb",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj",
+              "RelativeDocumentMoniker": "EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj",
+              "RelativeToolTip": "EmployeeRequestTrackerdb\\EmployeeRequestTrackerdb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T06:53:08.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeRequestTrackerdb\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeRequestTrackerdb\\EmployeeContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:54:24.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Request.cs",
+              "RelativeDocumentMoniker": "EmployeeRequestTrackerdb\\Request.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Request.cs",
+              "RelativeToolTip": "EmployeeRequestTrackerdb\\Request.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:53:25.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeRequestTrackerdb\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_21\\EmployeeRequestTrackerdbSolution\\EmployeeRequestTrackerdb\\Employee.cs",
+              "RelativeToolTip": "EmployeeRequestTrackerdb\\Employee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:52:28.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
