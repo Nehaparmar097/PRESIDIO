@@ -1,5 +1,6 @@
 ﻿using RequestTrackerBLLibrary;
 using RequestTrackerModelLibrary;
+using System.Data;
 using System.Threading.Channels;
 
 namespace RequestTrackerFEAPP
@@ -41,7 +42,7 @@ namespace RequestTrackerFEAPP
 
             while (!exit)
             {
-                Console.WriteLine("  $$    Welcome to Request Tracker Application!   $$   ");
+                Console.WriteLine("    Welcome to Request Tracker ");
                 Console.WriteLine("1. Login");
                 Console.WriteLine("2. Register");
                 Console.WriteLine("3. Exit");
@@ -69,6 +70,39 @@ namespace RequestTrackerFEAPP
 
         static async Task Login()
         {
+            /* Console.Write("Enter your ID: ");
+             int id;
+             if (!int.TryParse(Console.ReadLine(), out id))
+             {
+                 Console.WriteLine("Invalid ID. Please enter a valid integer ID.");
+                 return;
+             }
+
+             Console.Write("Enter your password: ");
+             string password = Console.ReadLine();
+
+             var employeeLoginBL = new EmployeeLoginBL();
+             var employee = new Employee { Id = id, Password = password , Role = role };
+
+             bool isAuthenticated = await employeeLoginBL.Login(employee);
+
+             if (isAuthenticated)
+             {
+                 Console.WriteLine("Login successful!");
+
+                 if (employee.Role == "Admin" || employee.Role == "admin")
+                 {
+                     await AdminMenu(employee);
+                 }
+                 else
+                 {
+                     await UserMenu(employee);
+                 }
+             }
+             else
+             {
+                 Console.WriteLine("Login failed. Invalid ID or password.");
+             }*/
             Console.Write("Enter your ID: ");
             int id;
             if (!int.TryParse(Console.ReadLine(), out id))
@@ -80,8 +114,11 @@ namespace RequestTrackerFEAPP
             Console.Write("Enter your password: ");
             string password = Console.ReadLine();
 
+            Console.Write("Enter your role (Admin/User): ");
+            string role = Console.ReadLine();
+
             var employeeLoginBL = new EmployeeLoginBL();
-            var employee = new Employee { Id = id, Password = password };
+            var employee = new Employee { Id = id, Password = password, Role = role };
 
             bool isAuthenticated = await employeeLoginBL.Login(employee);
 
@@ -89,7 +126,7 @@ namespace RequestTrackerFEAPP
             {
                 Console.WriteLine("Login successful!");
 
-                if (employee.Role == "Admin")
+                if (role.Equals("Admin", StringComparison.OrdinalIgnoreCase))
                 {
                     await AdminMenu(employee);
                 }
@@ -100,22 +137,56 @@ namespace RequestTrackerFEAPP
             }
             else
             {
-                Console.WriteLine("Login failed. Invalid ID or password.");
+                Console.WriteLine("Login failed. Invalid ID, password, or role.");
             }
+
 
         }
 
+        /* static async Task Register()
+         {
+             Console.WriteLine("Registration:");
+             Console.Write("Enter your ID: ");
+             int id;
+             if (!int.TryParse(Console.ReadLine(), out id))
+             {
+                 Console.WriteLine("Invalid ID. Please enter a valid integer ID.");
+                 return;
+             }
+
+             Console.Write("Enter your name: ");
+             string name = Console.ReadLine();
+
+             Console.Write("Enter your password: ");
+             string password = Console.ReadLine();
+
+             Console.Write("Enter your role (Admin/User): ");
+             string role = Console.ReadLine();
+
+             var employee = new Employee
+             {
+                 Id = id,
+                 Name = name,
+                 Password = password,
+                 Role = role
+             };
+
+             IEmployeeLoginBL auth = new EmployeeLoginBL();
+             var registeredEmployee = await auth.Register(employee);
+
+             if (registeredEmployee != null)
+             {
+                 Console.WriteLine("Registration successful!");
+             }
+             else
+             {
+                 Console.WriteLine("Registration failed. Please try again.");
+             }
+         }
+        */
         static async Task Register()
         {
             Console.WriteLine("Registration:");
-            Console.Write("Enter your ID: ");
-            int id;
-            if (!int.TryParse(Console.ReadLine(), out id))
-            {
-                Console.WriteLine("Invalid ID. Please enter a valid integer ID.");
-                return;
-            }
-
             Console.Write("Enter your name: ");
             string name = Console.ReadLine();
 
@@ -127,7 +198,6 @@ namespace RequestTrackerFEAPP
 
             var employee = new Employee
             {
-                Id = id,
                 Name = name,
                 Password = password,
                 Role = role
