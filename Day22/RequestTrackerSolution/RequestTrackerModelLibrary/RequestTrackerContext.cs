@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 
 namespace RequestTrackerModelLibrary
 {
@@ -13,10 +14,19 @@ namespace RequestTrackerModelLibrary
         {
             optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-QL1TE6V\SQLEXPRESS;Integrated Security=true;Initial Catalog=dbEmployeeRequestTrackerfinal;");
         }
+        
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Request> Requests { get; set; }
         public DbSet<RequestSolution> RequestSolutions { get; set; }
         public DbSet<SolutionFeedback> Feedbacks { get; set; }
+        public async Task SaveMyEntityAsync(Request entity)
+        {
+            // Add or update the entity in the context
+            Requests.Update(entity);
+
+            // Save the changes asynchronously
+            await SaveChangesAsync();
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Employee>().HasData(
@@ -68,6 +78,7 @@ namespace RequestTrackerModelLibrary
               .HasForeignKey(sf => sf.FeedbackBy)
               .OnDelete(DeleteBehavior.Restrict)
               .IsRequired();
+            
 
 
 
