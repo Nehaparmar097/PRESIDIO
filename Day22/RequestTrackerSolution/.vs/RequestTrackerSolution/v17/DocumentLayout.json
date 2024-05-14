@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerbllibrary\\solutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\solutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerdallibrary\\requestsolutionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\requestsolutionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerfeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|solutionrelative:requesttrackerfeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerbllibrary\\nosolutionexists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\nosolutionexists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerbllibrary\\isolutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\isolutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackermodellibrary\\requesttrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\requesttrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerfeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7C35718-6DC1-4EEA-A840-C7D8834F05EF}|RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj|solutionrelative:requesttrackerfeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerdallibrary\\solutionfeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\requestsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerdallibrary\\requestsolutionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B858FC5-2AC4-41B1-A93E-DC95B181C67B}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\requestsolutionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackermodellibrary\\solutionfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49CE4122-4A72-4343-8055-4429D314BF97}|RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj|solutionrelative:requesttrackermodellibrary\\solutionfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerbllibrary\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerbllibrary\\solutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\solutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerbllibrary\\isolutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\isolutionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21B39C0E-E3C9-442A-8E8A-118B763D20F1}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\day_1\\day22\\requesttrackersolution\\requesttrackerbllibrary\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,43 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestRepository.cs",
-              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\RequestRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestRepository.cs",
-              "RelativeToolTip": "RequestTrackerDALLibrary\\RequestRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAD4vxUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:11:50.459Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
-              "RelativeToolTip": "RequestTrackerDALLibrary\\EmployeeRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDgAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T08:57:16.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerFEAPP\\Program.cs",
               "RelativeDocumentMoniker": "RequestTrackerFEAPP\\Program.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerFEAPP\\Program.cs",
               "RelativeToolTip": "RequestTrackerFEAPP\\Program.cs",
-              "ViewState": "AQIAANoBAAAAAAAAAAAAAOYBAAAoAAAA",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAuwDACAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T09:16:37.843Z"
+              "WhenOpened": "2024-05-09T09:16:37.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "RequestService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\RequestService.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\RequestService.cs",
@@ -170,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "SolutionFeedbackRepository.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\SolutionFeedbackRepository.cs",
               "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\SolutionFeedbackRepository.cs",
@@ -190,11 +171,12 @@
               "RelativeToolTip": "RequestTrackerDALLibrary\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T08:58:05.457Z"
+              "WhenOpened": "2024-05-09T08:58:05.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "RequestTrackerContext.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerModelLibrary\\RequestTrackerContext.cs",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\RequestTrackerContext.cs",
@@ -207,7 +189,83 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SolutionService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\SolutionService.cs",
+              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\SolutionService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\SolutionService.cs",
+              "RelativeToolTip": "RequestTrackerBLLibrary\\SolutionService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAIAwwDMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:27:51.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestSolutionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestSolutionRepository.cs",
+              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\RequestSolutionRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestSolutionRepository.cs",
+              "RelativeToolTip": "RequestTrackerDALLibrary\\RequestSolutionRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:32:15.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoSolutionExists.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\NoSolutionExists.cs",
+              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\NoSolutionExists.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\NoSolutionExists.cs",
+              "RelativeToolTip": "RequestTrackerBLLibrary\\NoSolutionExists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:17:23.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISolutionService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\ISolutionService.cs",
+              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\ISolutionService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\ISolutionService.cs",
+              "RelativeToolTip": "RequestTrackerBLLibrary\\ISolutionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:27:19.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "RelativeToolTip": "RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:57:16.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestRepository.cs",
+              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\RequestRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestRepository.cs",
+              "RelativeToolTip": "RequestTrackerDALLibrary\\RequestRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vxUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:11:50.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "RequestSolution.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerModelLibrary\\RequestSolution.cs",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\RequestSolution.cs",
@@ -219,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Request.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerModelLibrary\\Request.cs",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\Request.cs",
@@ -231,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "20240512193848_Second.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerModelLibrary\\Migrations\\20240512193848_Second.cs",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\Migrations\\20240512193848_Second.cs",
@@ -243,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "SolutionFeedback.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerModelLibrary\\SolutionFeedback.cs",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\SolutionFeedback.cs",
@@ -255,19 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RequestSolutionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestSolutionRepository.cs",
-              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\RequestSolutionRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestSolutionRepository.cs",
-              "RelativeToolTip": "RequestTrackerDALLibrary\\RequestSolutionRepository.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAkwA4AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T18:32:15.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "RequestTrackerFEAPP.csproj",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj",
               "RelativeDocumentMoniker": "RequestTrackerFEAPP\\RequestTrackerFEAPP.csproj",
@@ -279,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AdminService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\AdminService.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\AdminService.cs",
@@ -291,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "IAdminService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IAdminService.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\IAdminService.cs",
@@ -303,31 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SolutionService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\SolutionService.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\SolutionService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\SolutionService.cs",
-              "RelativeToolTip": "RequestTrackerBLLibrary\\SolutionService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T18:27:51.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ISolutionService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\ISolutionService.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\ISolutionService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\ISolutionService.cs",
-              "RelativeToolTip": "RequestTrackerBLLibrary\\ISolutionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T18:27:19.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IRequestService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IRequestService.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\IRequestService.cs",
@@ -339,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IFeedbackService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IFeedbackService.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\IFeedbackService.cs",
@@ -351,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FeedbackService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\FeedbackService.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\FeedbackService.cs",
@@ -363,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "RequestTrackerBLLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj",
@@ -375,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "20240512180328_First.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerModelLibrary\\Migrations\\20240512180328_First.cs",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\Migrations\\20240512180328_First.cs",
@@ -387,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerModelLibrary\\Employee.cs",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\Employee.cs",
@@ -399,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IEmployeeLoginBL.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IEmployeeLoginBL.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\IEmployeeLoginBL.cs",
@@ -411,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "EmployeeLoginBL.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerBLLibrary\\EmployeeLoginBL.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\EmployeeLoginBL.cs",
@@ -423,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "RequestTrackerModelLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day22\\RequestTrackerSolution\\RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",
               "RelativeDocumentMoniker": "RequestTrackerModelLibrary\\RequestTrackerModelLibrary.csproj",

@@ -1,3 +1,9 @@
+using DoctorsAppointmentAPI.interfaces;
+using DoctorsAppointmentAPI.models;
+using Microsoft.EntityFrameworkCore;
+using DoctorsAppointmentAPI.context;
+using DoctorsAppointmentAPI.Repository;
+
 namespace DoctorsAppointmentAPI
 {
     public class Program
@@ -13,7 +19,16 @@ namespace DoctorsAppointmentAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddDbContext<DoctorAppoinmentContext>(
+              options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
+              );
+
+            builder.Services.AddScoped<IReposiroty<int, Doctor>, DoctorRepository>();
+
+            builder.Services.AddScoped<IDoctorService, DoctorBasicService>();
             var app = builder.Build();
+
+            
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

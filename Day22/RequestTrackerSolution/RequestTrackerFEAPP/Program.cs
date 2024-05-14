@@ -1,5 +1,6 @@
 ﻿using RequestTrackerBLLibrary;
 using RequestTrackerModelLibrary;
+using System.ComponentModel.DataAnnotations;
 using System.Data;
 using System.Threading.Channels;
 
@@ -42,7 +43,7 @@ namespace RequestTrackerFEAPP
 
             while (!exit)
             {
-                Console.WriteLine("    Welcome to Request Tracker ");
+                Console.WriteLine("----------------------Request Tracker Application------------------");
                 Console.WriteLine("1. Login");
                 Console.WriteLine("2. Register");
                 Console.WriteLine("3. Exit");
@@ -289,7 +290,7 @@ namespace RequestTrackerFEAPP
                         await ViewSolutions(admin);
                         break;
                     case "4":
-                        // Implement logic to provide solution
+                        await AddSolutions(admin);
                         break;
                     case "5":
                         Console.WriteLine("Enter the request ID to mark as closed:");
@@ -330,6 +331,63 @@ namespace RequestTrackerFEAPP
             }
         }
 
+         static async Task AddSolutions(Employee admin)
+        {
+            Console.WriteLine("Enter the request ID to add solutions:");
+
+            int requestId;
+
+            if (!int.TryParse(Console.ReadLine(), out requestId))
+
+            {
+
+                Console.WriteLine("Invalid request ID. Please try again.");
+
+                return;
+
+            }
+
+
+            Console.WriteLine("Enter the solution:");
+
+            string solution = Console.ReadLine();
+
+            var requestSolutionBL = new SolutionService();
+
+            var requestSolution = new RequestSolution
+
+            {
+
+                //SolutionId = solutionId,
+
+                RequestId = requestId,
+
+                SolutionDescription = solution,
+
+                SolvedBy = admin.Id,
+
+                SolvedDate = DateTime.Now
+
+            };
+
+            var requestedSolution = await requestSolutionBL.ProvideSolution(requestSolution);
+
+            if (requestedSolution != null)
+
+            {
+
+                Console.WriteLine("Solution Added Successfully");
+
+            }
+
+            else
+
+            {
+
+                Console.WriteLine("Failed to add a solution");
+
+            }
+        }
 
         static async Task RaiseRequest(Employee user)
         {
@@ -342,7 +400,8 @@ namespace RequestTrackerFEAPP
                 RequestMessage = requestMessage,
                 RequestDate = DateTime.Now,
                 RequestStatus = "Open",
-                RequestRaisedBy = user.Id
+                RequestRaisedBy = user.Id,
+                RequestClosedBy=user.Id
             };
 
 
@@ -389,8 +448,8 @@ namespace RequestTrackerFEAPP
                 return;
             }
 
-            IRequestService requestService = new RequestService();
-            var userSolutions = await requestService.ViewSolutions(requestId);
+            ISolutionService solutionService=new SolutionService();
+            var userSolutions = await solutionService.ViewSolution(requestId);
 
             if (userSolutions.Count > 0)
             {
@@ -499,6 +558,7 @@ namespace RequestTrackerFEAPP
             {
                 Console.WriteLine("Failed to submit the feedback. Please try again.");
             }
+
         }
     }
 }

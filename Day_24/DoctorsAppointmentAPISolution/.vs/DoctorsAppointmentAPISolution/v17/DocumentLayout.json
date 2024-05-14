@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\doctorsappointmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\doctorsappointmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\context\\doctorappointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\context\\doctorappointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\repository\\doctorbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\repository\\doctorbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\context\\doctorappointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\context\\doctorappointmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\migrations\\20240514094810_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\migrations\\20240514094810_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_24\\doctorsappointmentapisolution\\doctorsappointmentapi\\doctorsappointmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E42F663-E9B7-442A-AF2F-93CC28967FA5}|DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj|solutionrelative:doctorsappointmentapi\\doctorsappointmentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +62,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DoctorAppointmentContext.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\context\\DoctorAppointmentContext.cs",
               "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\context\\DoctorAppointmentContext.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\context\\DoctorAppointmentContext.cs",
               "RelativeToolTip": "DoctorsAppointmentAPI\\context\\DoctorAppointmentContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T08:56:16.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Program.cs",
+              "RelativeToolTip": "DoctorsAppointmentAPI\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAD4vywAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:27:44.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DoctorsAppointmentAPI\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:35:26.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "DoctorsAppointmentAPI\\interfaces\\IDoctorService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:08:46.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorBasicService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Repository\\DoctorBasicService.cs",
+              "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\Repository\\DoctorBasicService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Repository\\DoctorBasicService.cs",
+              "RelativeToolTip": "DoctorsAppointmentAPI\\Repository\\DoctorBasicService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:13:02.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Repository\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\Repository\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Repository\\DoctorRepository.cs",
+              "RelativeToolTip": "DoctorsAppointmentAPI\\Repository\\DoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:11:04.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\models\\Doctor.cs",
               "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\models\\Doctor.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\models\\Doctor.cs",
               "RelativeToolTip": "DoctorsAppointmentAPI\\models\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T08:54:42.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T08:54:42.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "20240514094810_First.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Migrations\\20240514094810_First.cs",
+              "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\Migrations\\20240514094810_First.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\Migrations\\20240514094810_First.cs",
+              "RelativeToolTip": "DoctorsAppointmentAPI\\Migrations\\20240514094810_First.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:48:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\interfaces\\IRepository.cs",
+              "RelativeToolTip": "DoctorsAppointmentAPI\\interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:08:01.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\appsettings.json",
+              "RelativeToolTip": "DoctorsAppointmentAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T09:26:36.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DoctorsAppointmentAPI.csproj",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_24\\DoctorsAppointmentAPISolution\\DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj",
               "RelativeDocumentMoniker": "DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj",
@@ -64,8 +194,7 @@
               "RelativeToolTip": "DoctorsAppointmentAPI\\DoctorsAppointmentAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T08:54:18.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T08:54:18.595Z"
             }
           ]
         }

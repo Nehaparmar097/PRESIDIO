@@ -7,7 +7,7 @@
 
         public string phonenumber { get; set; }
         public string Specialization { get; set; }
-        public string  Experiance { get; set; }
+        public int  Experiance { get; set; }
 
     }
 }

@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Reflection.Emit;
+using DoctorsAppointmentAPI.models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DoctorsAppointmentAPI.context
 {
@@ -11,12 +13,26 @@ namespace DoctorsAppointmentAPI.context
 
 
 
-        public DbSet<Employee> Employees { get; set; }
+        public DbSet<Doctor> Doctors { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Employee>().HasData(
-                new Employee() { Id = 101, Name = "Ramu", DateOfBirth = new DateTime(2000, 2, 12), Phone = "9876543321", Image = "" },
-                new Employee() { Id = 102, Name = "Somu", DateOfBirth = new DateTime(2002, 3, 24), Phone = "9988776655", Image = "" }
+            modelBuilder.Entity<Doctor>().HasData(
+                new Doctor()
+                {
+                    Id = 101,
+                    DoctorName = "Neha Parmar",
+                    phonenumber = "123456789",
+                    Specialization = "Cardiology",
+                    Experiance = 10 // Experience in years
+                },
+            new Doctor()
+            {
+                Id = 2,
+                DoctorName = "Shailu",
+                phonenumber = "9876543210",
+                Specialization = "gayno",
+                Experiance = 8 // Experience in years
+            }
                 );
         }
     }
