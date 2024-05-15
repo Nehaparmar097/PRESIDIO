@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\migrations\\20240515171716_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\migrations\\20240515171716_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\service\\pizzaservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\service\\pizzaservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\pizzashopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\pizzashopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\context\\pizzashopcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\context\\pizzashopcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\controller\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\controller\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|c:\\users\\vc\\desktop\\day_1\\day_25\\pizzashopapisolution\\pizzashopapi\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272EC091-EF58-4C3F-8AF1-78CB6C87CA4D}|PizzaShopAPI\\PizzaShopAPI.csproj|solutionrelative:pizzashopapi\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240515171716_First.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Migrations\\20240515171716_First.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\Migrations\\20240515171716_First.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Migrations\\20240515171716_First.cs",
+              "RelativeToolTip": "PizzaShopAPI\\Migrations\\20240515171716_First.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:17:16.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Service\\PizzaServicecs.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\Service\\PizzaServicecs.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Service\\PizzaServicecs.cs",
+              "RelativeToolTip": "PizzaShopAPI\\Service\\PizzaServicecs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:16:15.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Controller\\PizzaController.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\Controller\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Controller\\PizzaController.cs",
+              "RelativeToolTip": "PizzaShopAPI\\Controller\\PizzaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:06:47.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaShopContextcs.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\context\\PizzaShopContextcs.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\context\\PizzaShopContextcs.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\context\\PizzaShopContextcs.cs",
+              "RelativeToolTip": "PizzaShopAPI\\context\\PizzaShopContextcs.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:00:04.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\interfaces\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\interfaces\\IPizzaService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\interfaces\\IPizzaService.cs",
+              "RelativeToolTip": "PizzaShopAPI\\interfaces\\IPizzaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:57:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\interfaces\\IRepository.cs",
+              "RelativeToolTip": "PizzaShopAPI\\interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:56:41.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\models\\Customer.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\models\\Customer.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\models\\Customer.cs",
+              "RelativeToolTip": "PizzaShopAPI\\models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:53:02.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Repositories\\PizzaRepository.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\Repositories\\PizzaRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Repositories\\PizzaRepository.cs",
+              "RelativeToolTip": "PizzaShopAPI\\Repositories\\PizzaRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:58:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\models\\Order.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\models\\Order.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\models\\Order.cs",
+              "RelativeToolTip": "PizzaShopAPI\\models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:53:18.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\Program.cs",
+              "RelativeToolTip": "PizzaShopAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:05:53.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaShopAPI",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\PizzaShopAPI.csproj",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\PizzaShopAPI.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\PizzaShopAPI.csproj",
+              "RelativeToolTip": "PizzaShopAPI\\PizzaShopAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T16:52:05.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\models\\OrderDetail.cs",
+              "RelativeToolTip": "PizzaShopAPI\\models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:53:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\models\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaShopAPI\\models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_25\\PizzaShopAPISolution\\PizzaShopAPI\\models\\Pizza.cs",
+              "RelativeToolTip": "PizzaShopAPI\\models\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:54:06.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
