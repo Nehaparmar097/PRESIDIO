@@ -2,11 +2,14 @@
 {
     public class Customer
     {
-        public int CId { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
-        public string Address { get; set; }
+        public DateTime DateOfBirth { get; set; }
         public string Phone { get; set; }
-
-        public ICollection<Order> Orders { get; set; }
+        
+        public string? Role { get; set; }
+        public int UserId { get;  set; }
+        public object Email { get; internal set; }
+        public object Orders { get; internal set; }
     }
 }

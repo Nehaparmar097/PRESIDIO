@@ -7,58 +7,63 @@ namespace PizzaShopAPI.Repositories
 {
     public class PizzaRepository : IRepository<int, Pizza>
     {
-        private readonly PizzaShopContext _context;
+        private PizzaShopContext _context;
 
         public PizzaRepository(PizzaShopContext context)
         {
             _context = context;
         }
-        public async Task<Pizza> Add(Pizza entity)
+        public async Task<Pizza> Add(Pizza item)
+
         {
-            _context.Add(entity);
+
+            _context.Add(item);
             await _context.SaveChangesAsync();
-            return entity;
+            return item;
         }
 
-        public async Task<Pizza> DeleteById(int id)
+        public async Task<Pizza> Delete(int key)
         {
-            var pizza = await GetById(id);
-            if (pizza != null)
+            var Pizza = await Get(key);
+            if (Pizza != null)
             {
-
-                _context.Remove(pizza);
+                _context.Remove(Pizza);
                 await _context.SaveChangesAsync();
-
-
+                return Pizza;
             }
-            return pizza;
-
+            throw new Exception("No Pizza with the given ID");
         }
 
-        public async Task<IEnumerable<Pizza>> GetAll()
+        public async Task<Pizza> Get(int key)
         {
-            var pizzas = await _context.Pizzas.ToListAsync();
-            return pizzas;
-
+            return (await _context.Pizzas.SingleOrDefaultAsync(u => u.PizzaId == key)) ?? throw new Exception("No Pizza with the given ID");
         }
 
-        public async Task<Pizza> GetById(int id)
+        public async Task<IEnumerable<Pizza>> Get()
         {
-            var pizza = await _context.Pizzas.FirstOrDefaultAsync(p => p.PId == id);
-            return pizza;
+            return (await _context.Pizzas.ToListAsync());
         }
 
-        public async Task<Pizza> Update(Pizza entity)
+        public Task<IEnumerable<Pizza>> GetAll()
         {
-            var pizza = await GetById(entity.PId);
-            if (pizza != null)
+            throw new NotImplementedException();
+        }
+
+        public Task<Pizza> GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<Pizza> Update(Pizza item)
+        {
+            var Pizza = await Get(item.PizzaId);
+            if (Pizza != null)
             {
-                var result = _context.Update(entity);
+                _context.Update(item);
                 await _context.SaveChangesAsync();
-                return entity;
-
+                return Pizza;
             }
-            return pizza;
+            throw new Exception("No Pizza with the given ID");
         }
     }
 }

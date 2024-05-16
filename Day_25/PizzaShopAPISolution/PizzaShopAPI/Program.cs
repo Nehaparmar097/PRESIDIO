@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using PizzaShopAPI.context;
 using PizzaShopAPI.interfaces;
 using PizzaShopAPI.models;
@@ -20,12 +21,17 @@ namespace PizzaShopAPI
             builder.Services.AddSwaggerGen();
 
             #region Context
-            builder.Services.AddDbContext<PizzaShopContext>();
+            builder.Services.AddDbContext<PizzaShopContext>(
+                options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
+            );
             #endregion
-            #region Repositories
-            builder.Services.AddScoped<IRepository<int, Pizza>, PizzaRepository>();
+            #region Repository
+            builder.Services.AddScoped<IRepository<int, Customer>, CustomerRepository>();
+            builder.Services.AddScoped<IRepository<int, UserCredential>, UserCredentialRepository>();
             #endregion
-            #region Services
+
+            #region EmployeeBL
+            builder.Services.AddScoped<ICustomerService, CustomerService>();
             builder.Services.AddScoped<IPizzaService, PizzaService>();
             #endregion
 
