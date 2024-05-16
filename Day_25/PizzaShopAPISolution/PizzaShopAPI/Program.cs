@@ -21,9 +21,11 @@ namespace PizzaShopAPI
             builder.Services.AddSwaggerGen();
 
             #region Context
-            builder.Services.AddDbContext<PizzaShopContext>(
-                options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
-            );
+            /* builder.Services.AddDbContext<PizzaShopContext>(
+                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("defaultConnection"))
+             );*/
+            builder.Services.AddDbContext<PizzaShopContext>();
+            //builder.Services.AddDbContext<PizzaShopContext>();
             #endregion
             #region Repository
             builder.Services.AddScoped<IRepository<int, Customer>, CustomerRepository>();

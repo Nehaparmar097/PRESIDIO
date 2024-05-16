@@ -9,7 +9,7 @@
         
         public string? Role { get; set; }
         public int UserId { get;  set; }
-        public object Email { get; internal set; }
-        public object Orders { get; internal set; }
+        public object Email { get;  set; }
+        public object Orders { get; set; }
     }
 }

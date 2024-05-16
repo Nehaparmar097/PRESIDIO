@@ -7,9 +7,9 @@ namespace PizzaShopAPI.context
 {
     public class PizzaShopContext : DbContext
     {
-        public PizzaShopContext(DbContextOptions options) : base(options)
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-
+            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-QL1TE6V\\SQLEXPRESS;Integrated Security=true;Initial Catalog=dbPizzaShopAPI16may;");
         }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
