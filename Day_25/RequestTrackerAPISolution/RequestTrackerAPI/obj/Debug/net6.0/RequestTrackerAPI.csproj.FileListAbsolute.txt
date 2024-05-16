@@ -205,3 +205,5 @@ C:\Users\VC\Desktop\Day_1\Day_25\RequestTrackerAPISolution\RequestTrackerAPI\obj
 C:\Users\VC\Desktop\Day_1\Day_25\RequestTrackerAPISolution\RequestTrackerAPI\obj\Debug\net6.0\RequestTrackerAPI.pdb
 C:\Users\VC\Desktop\Day_1\Day_25\RequestTrackerAPISolution\RequestTrackerAPI\obj\Debug\net6.0\RequestTrackerAPI.genruntimeconfig.cache
 C:\Users\VC\Desktop\Day_1\Day_25\RequestTrackerAPISolution\RequestTrackerAPI\obj\Debug\net6.0\ref\RequestTrackerAPI.dll
+C:\Users\VC\Desktop\Day_1\Day_25\RequestTrackerAPISolution\RequestTrackerAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VC\Desktop\Day_1\Day_25\RequestTrackerAPISolution\RequestTrackerAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
