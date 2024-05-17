@@ -2,6 +2,7 @@
 using PizzaShopAPIJWT.interfaces;
 using PizzaShopAPIJWT.model.DTOs;
 using PizzaShopAPIJWT.model;
+using Microsoft.AspNetCore.Authorization;
 
 namespace PizzaShopAPIJWT.Controllers
 {
@@ -14,6 +15,7 @@ namespace PizzaShopAPIJWT.Controllers
         {
             _pizzaService = pizzaService;
         }
+        [Authorize]
         [HttpGet("GetMenu")]
         [ProducesResponseType(typeof(Pizza), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status401Unauthorized)]

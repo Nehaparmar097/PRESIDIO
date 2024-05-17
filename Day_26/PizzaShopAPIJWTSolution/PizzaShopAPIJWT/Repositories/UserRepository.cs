@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace PizzaShopAPIJWT.Repositories
 {
+
     public class UserRepository : IRepository<int, User>
     {
         private PizzaShopContext _context;

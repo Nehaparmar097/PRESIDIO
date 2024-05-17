@@ -3,6 +3,7 @@ namespace PizzaShopAPIJWT.interfaces
 {
     public interface ITokenService
     {
-        public string GenerateToken(User employee);
+        public string GenerateToken(Customer customer);
+
     }
 }
