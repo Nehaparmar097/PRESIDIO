@@ -19,9 +19,9 @@ namespace PizzaShopAPIJWT.context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Customer>().HasData(
-                new Customer() { Id = 101, Name = "neha", Phone = "9876543321", Address = "#123 chennai" },
-                new Customer() { Id = 102, Name = "shailu", Phone = "9988776655", Address = "#456 chennai" },
-                new Customer() { Id = 103, Name = "laxmi", Phone = "1234567890", Address = "#789 chennai" }
+                new Customer() { Id = 101, Name = "neha", Phone = "9876543321", Address = "mp" },
+                new Customer() { Id = 102, Name = "shailu", Phone = "9988776655", Address = "up" },
+                new Customer() { Id = 103, Name = "laxmi", Phone = "1234567890", Address = "tn" }
                 );
             modelBuilder.Entity<Pizza>().HasData(
                new Pizza() { Id = 101, PizzaName = "Margarita", Availability = "Available", Price = 99, QuantityInStock = 25 },

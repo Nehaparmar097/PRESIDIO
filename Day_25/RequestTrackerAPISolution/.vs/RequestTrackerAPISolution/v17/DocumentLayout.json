@@ -118,8 +118,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\models\\DTOs\\UserLoginDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T06:59:58.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T06:59:58.386Z"
             },
             {
               "$type": "Document",
@@ -131,8 +130,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T05:20:12.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:20:12.716Z"
             },
             {
               "$type": "Document",
@@ -144,8 +142,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\models\\ErrorModel.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:33:17.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T04:33:17.714Z"
             },
             {
               "$type": "Document",
@@ -157,8 +154,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\models\\User.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:54:03.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T04:54:03.862Z"
             },
             {
               "$type": "Document",
@@ -170,8 +166,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-14T05:29:45.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:29:45.045Z"
             },
             {
               "$type": "Document",
@@ -196,8 +191,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\Service\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:02:52.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T07:02:52.346Z"
             },
             {
               "$type": "Document",
@@ -209,8 +203,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\models\\DTOs\\LoginReturnDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:50:18.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:50:18.628Z"
             },
             {
               "$type": "Document",
@@ -222,8 +215,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\RequestTrackerAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T05:19:47.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:19:47.692Z"
             },
             {
               "$type": "Document",
@@ -235,8 +227,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\models\\DTOs\\EmployeeDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T06:59:13.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T06:59:13.779Z"
             },
             {
               "$type": "Document",
@@ -248,8 +239,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:01:27.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T07:01:27.777Z"
             },
             {
               "$type": "Document",
@@ -261,8 +251,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\interfaces\\ITokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:50:57.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:50:57.956Z"
             },
             {
               "$type": "Document",
@@ -274,8 +263,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\interfaces\\IRepository.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAzwAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T05:24:14.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:24:14.441Z"
             },
             {
               "$type": "Document",
@@ -287,8 +275,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\interfaces\\IEmployeeService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T05:25:27.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:25:27.195Z"
             },
             {
               "$type": "Document",
@@ -300,8 +287,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\Controllers\\UserController.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAYwA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:06:53.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T07:06:53.596Z"
             },
             {
               "$type": "Document",
@@ -313,8 +299,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\context\\RequestTrackerContext.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T05:21:37.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:21:37.283Z"
             },
             {
               "$type": "Document",
@@ -326,8 +311,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\Service\\TokenService.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAxwB4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:51:35.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:51:35.728Z"
             },
             {
               "$type": "Document",
@@ -339,8 +323,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\Migrations\\20240516045243_first.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:52:43.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T04:52:43.726Z"
             },
             {
               "$type": "Document",
@@ -352,8 +335,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\repository\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T04:55:15.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T04:55:15.007Z"
             },
             {
               "$type": "Document",
@@ -365,8 +347,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\repository\\NoEmployeesFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T05:32:22.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:32:22.123Z"
             },
             {
               "$type": "Document",
@@ -378,8 +359,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\repository\\EmployeeRepository.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAowDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T05:26:47.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:26:47.398Z"
             },
             {
               "$type": "Document",
@@ -391,8 +371,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\repository\\EmployeeBasicService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T05:28:19.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T05:28:19.021Z"
             },
             {
               "$type": "Document",
@@ -404,8 +383,7 @@
               "RelativeToolTip": "RequestTrackerAPI\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAkwA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:07:25.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T06:07:25.163Z"
             }
           ]
         }

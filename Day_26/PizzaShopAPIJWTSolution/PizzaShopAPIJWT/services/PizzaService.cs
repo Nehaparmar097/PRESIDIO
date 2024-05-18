@@ -7,9 +7,9 @@ namespace PizzaShopAPIJWT.services
     {
         private readonly IRepository<int, Pizza> _pizzaMenuRepo;
         //private readonly IRepository<int, PizzaStock> _pizzaStockRepo;
-        public PizzaService(IRepository<int, Pizza> pizzaMenu)
+        public PizzaService(IRepository<int, Pizza> pizza)
         {
-            _pizzaMenuRepo = pizzaMenu;
+            _pizzaMenuRepo = pizza;
             //_pizzaStockRepo=pizzaStock;
         }
 
