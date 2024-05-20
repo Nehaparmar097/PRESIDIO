@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Day_28\\LINQSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565088F2-6A86-4B15-A857-395E8A7DB7F5}|LINQ\\LINQ.csproj|c:\\users\\vc\\desktop\\day_1\\day_28\\linqsolution\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565088F2-6A86-4B15-A857-395E8A7DB7F5}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565088F2-6A86-4B15-A857-395E8A7DB7F5}|LINQ\\LINQ.csproj|c:\\users\\vc\\desktop\\day_1\\day_28\\linqsolution\\linq\\model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565088F2-6A86-4B15-A857-395E8A7DB7F5}|LINQ\\LINQ.csproj|solutionrelative:linq\\model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565088F2-6A86-4B15-A857-395E8A7DB7F5}|LINQ\\LINQ.csproj|c:\\users\\vc\\desktop\\day_1\\day_28\\linqsolution\\linq\\model\\pubscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565088F2-6A86-4B15-A857-395E8A7DB7F5}|LINQ\\LINQ.csproj|solutionrelative:linq\\model\\pubscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_28\\LINQSolution\\LINQ\\Model\\Sale.cs",
+              "RelativeDocumentMoniker": "LINQ\\Model\\Sale.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_28\\LINQSolution\\LINQ\\Model\\Sale.cs",
+              "RelativeToolTip": "LINQ\\Model\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:06:36.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pubsContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_28\\LINQSolution\\LINQ\\Model\\pubsContext.cs",
+              "RelativeDocumentMoniker": "LINQ\\Model\\pubsContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_28\\LINQSolution\\LINQ\\Model\\pubsContext.cs",
+              "RelativeToolTip": "LINQ\\Model\\pubsContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA/wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:35:53.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Day_28\\LINQSolution\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Day_28\\LINQSolution\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:32:56.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
