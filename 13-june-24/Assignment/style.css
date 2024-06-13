@@ -1,0 +1,20 @@
+.error-message {
+    color: red;
+    font-size: 12px;
+}
+.container {
+    background-color: #bdf7fd;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #97dfe6;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.header-image {
+    width: 15%;
+    max-height: 50px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
