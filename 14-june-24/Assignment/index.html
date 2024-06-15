@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .error-message {
+            color: red;
+            font-size: 12px;
+        }
+        .container {
+            background-color: #f9fafb;
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        .form-control.is-invalid {
+            border-color: #e3342f;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="text-2xl font-bold mb-4">Registration Form</h2>
+        <form id="registrationForm" onsubmit="return handleSubmit(event)">
+            <div class="form-group mb-4">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" class="form-control" required>
+                <span id="nameError" class="error-message"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="phone">Phone:</label>
+                <input type="text" id="phone" name="phone" class="form-control" required>
+                <span id="phoneError" class="error-message"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="dob">Date of Birth:</label>
+                <input type="date" id="dob" name="dob" class="form-control" required>
+                <span id="dobError" class="error-message"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="age">Age:</label>
+                <input type="text" id="age" name="age" class="form-control" readonly>
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" class="form-control" required>
+                <span id="emailError" class="error-message"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label>Gender:</label>
+                <div>
+                    <label><input type="radio" name="gender" value="Male" required> Male</label>
+                    <label class="ml-4"><input type="radio" name="gender" value="Female"> Female</label>
+                </div>
+                <span id="genderError" class="error-message"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label>Qualification:</label>
+                <div>
+                    <label><input type="checkbox" name="qualification" value="High School"> High School</label>
+                    <label class="ml-4"><input type="checkbox" name="qualification" value="Bachelor's"> Bachelor's</label>
+                    <label class="ml-4"><input type="checkbox" name="qualification" value="Master's"> Master's</label>
+                    <label class="ml-4"><input type="checkbox" name="qualification" value="PhD"> PhD</label>
+                </div>
+                <span id="qualificationError" class="error-message"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="profession">Profession:</label>
+                <input list="professions" id="profession" name="profession" class="form-control" required>
+                <datalist id="professions">
+                    <option value="Engineer">
+                    <option value="Doctor">
+                    <option value="Teacher">
+                    <option value="Artist">
+                </datalist>
+                <span id="professionError" class="error-message"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <div id="consolidatedErrors" class="error-message mt-4"></div>
+        </form>
+    </div>
+
+    <!-- Registration List -->
+    <div class="container mt-5">
+        <h2 class="text-2xl font-bold mb-4">Registration List</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Date of Birth</th>
+                    <th>Age</th>
+                    <th>Email</th>
+                    <th>Gender</th>
+                    <th>Qualification</th>
+                    <th>Profession</th>
+                </tr>
+            </thead>
+            <tbody id="registrationTableBody">
+                <!-- Filled dynamically -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="register.js"></script>
+</body>
+</html>
