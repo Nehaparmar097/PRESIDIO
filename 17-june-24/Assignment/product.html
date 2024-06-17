@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <style>
+        .card {
+            background-color: #aef3f1; /* Light green background color */
+            border: 1px solid rgba(0, 0, 0, 0.125); /* Optional: Add a border */
+            border-radius: 8px; /* Optional: Rounded corners */
+        }
+        .card-text {
+            margin-bottom: 0.5rem;
+        }
+        .card-discount {
+            color: red;
+            font-weight: bold;
+        }
+        .card-rating {
+            color: #ffc107; /* Bootstrap's yellow color for ratings */
+            font-size: 1.2rem;
+        }
+    </style>
+    <script>
+        var clickButton = () => {
+            fetch('https://dummyjson.com/products', {
+                method: 'GET',
+            }).then(async (response) => {
+                var data = await response.json();
+                console.log(data.products); // Log products to console (optional)
+                var divProducts = document.getElementById('divProducts');
+                var productData = "";
+                data.products.forEach(element => {
+                    // Determine if there's a discount to display
+                    var discountText = "";
+                    if (element.discountPercentage > 0) {
+                        discountText = `<p class="card-discount">Discount: ${element.discountPercentage}%</p>`;
+                    }
+
+                    // Construct HTML for each product card
+                    productData += `
+                        <div class="col-md-4 mb-4">
+                            <div class="card h-100">
+                                <img src="${element.thumbnail}" class="card-img-top" alt="${element.title}">
+                                <div class="card-body">
+                                    <h5 class="card-title">${element.title}</h5>
+                                    <p class="card-text">${element.description}</p>
+                                    <p class="card-text"><small class="text-muted">Price: $${element.price}</small></p>
+                                    ${discountText}
+                                    <p class="card-rating">Rating: ${element.rating}</p>
+                                    <p class="card-text"><small class="text-muted">${element.availabilityStatus}</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                });
+                divProducts.innerHTML = `<div class="row">${productData}</div>`;
+            }).catch(error => {
+                console.error('Error fetching products:', error);
+            });
+        }
+    </script>
+</head>
+<body class="container mt-5">
+    <h1 class="mb-4">Product Details</h1>
+    <button class="btn btn-primary mb-3" onclick="clickButton()">Load Products</button>
+    <div id="divProducts" class="row"></div>
+</body>
+</html>

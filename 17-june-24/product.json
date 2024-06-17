@@ -1,0 +1,12 @@
+{
+    "product": {
+      "id": 12345,
+      "name": "SuperWidget 3000",
+      "description": "The SuperWidget 3000 is the latest and greatest in widget technology, featuring advanced capabilities and sleek design.",
+      "price": 299.99,
+      "currency": "USD",
+      "category": "Widgets",
+      "brand": "WidgetCorp",
+      "availability": "In Stock"
+    }
+    }
