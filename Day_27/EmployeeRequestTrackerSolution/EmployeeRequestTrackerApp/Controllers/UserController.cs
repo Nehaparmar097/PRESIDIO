@@ -4,11 +4,13 @@ using EmployeeRequestTrackerApp.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 
 namespace EmployeeRequestTrackerApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("MyCors")]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
