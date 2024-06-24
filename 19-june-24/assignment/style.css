@@ -1,0 +1,48 @@
+body {
+    padding-top: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+#quotes-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.quote-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    flex: 1 1 calc(33.333% - 40px);
+}
+
+.quote-card p {
+    font-style: italic;
+}
+
+.quote-card .author {
+    text-align: right;
+    font-weight: bold;
+}
+
+    .quote-card {
+        margin: 10px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+    }
+    .quote-card.visible {
+        opacity: 1;
+    }
+    .quote-card p {
+        margin-bottom: 5px;
+    }
+    .author {
+        font-weight: bold;
+    }
+
