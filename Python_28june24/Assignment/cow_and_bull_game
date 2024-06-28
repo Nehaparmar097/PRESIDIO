@@ -1,0 +1,34 @@
+import random
+
+def generate_secret_word():
+    words = ["apple", "banjo", "crane", "drain", "eagle"]
+    return random.choice(words)
+
+def cow_bull(secret, guess):
+    cows = bulls = 0
+    for s, g in zip(secret, guess):
+        if s == g:
+            bulls += 1
+        elif g in secret:
+            cows += 1
+    return cows, bulls
+
+def play_cow_bull():
+    secret_word = generate_secret_word()
+    attempts = 0
+    print("Welcome to the Cow and Bull game!")
+
+    while True:
+        guess = input("Enter your guess: ")
+        if len(guess) != len(secret_word):
+            print(f"Please enter a {len(secret_word)}-letter word.")
+            continue
+
+        attempts += 1
+        cows, bulls = cow_bull(secret_word, guess)
+        print(f"Cows: {cows}, Bulls: {bulls}")
+
+        if bulls == len(secret_word):
+            print(f"Congratulations! You've guessed the word in {attempts} attempts.")
+            break
+
