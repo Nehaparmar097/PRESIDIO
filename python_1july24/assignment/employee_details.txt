@@ -1,0 +1,8 @@
+neha, 2001-07-01, 8798798798, neh@gmail.com, 23
+anjali, 2001-07-01, 1234123434, anjali@gmail.com, 23
+yashu, 2001-01-01, 435354465555, y@gmail.com, 23
+leena, 2001-01-01, 1234512345, leena@gmail.com, 23
+dave, 2001-07-01, 7887788778, neha@gmail.com, 23
+gagri parmar, 2004-10-07, 8765432111, gagri@gmail.com, 19
+neha, 2001-07-02, 6776676776, g@gmal.com, 22
+onemoredata, 2001-07-01, 7667677667, random@gmail.com, 23
