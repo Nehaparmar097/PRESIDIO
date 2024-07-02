@@ -1,0 +1,145 @@
+question 1====================================================================
+
+from collections import Counter
+X = int(input())
+sizes = list(map(int, input().split()))
+money = 0
+N = int(input())
+for _ in range(N):
+    lst = list(map(int, input().split()))
+    cnt = Counter(sizes)
+    if lst[0] in cnt.keys():
+        money += lst[1]
+        sizes.remove(lst[0])
+    else:
+        money += 0
+print(money)
+
+
+
+
+
+
+question2=========================================================================
+
+def merge_the_tools(string, k):
+  
+    
+     for i in range(0,len(string),k):
+         val = string[i: i+k]
+         output=''
+         for ch in val:
+             if ch not in output:
+                 output+=ch   
+         print(output)        
+
+
+question3===========================================================================
+
+
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+
+
+
+from collections import Counter
+if __name__ == '__main__':
+    s = sorted(input())
+    cnt = Counter(s).most_common(3)
+    for _ in cnt:
+        result = ' '.join(str(item) for item in _)
+        print(result)
+        
+
+
+Question4==============================================================================
+
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+
+
+if __name__ == '__main__':
+    if n % 2 == 1:
+    print("Weird")
+if n % 2 == 0:
+    if (n >= 2) and (n <= 5):
+        print("Not weird")
+    elif (n >= 6) and (n <= 20):
+        print("Weird")
+    elif n > 20:
+        print("Not Weird")
+
+
+
+question5===============================================================================
+
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+print(int(a/b))
+print(float(a/b))
+
+  
+
+question6================================================================================
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+
+question7==================================================================================
+
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(0,n):
+       print(i*i)     
+
+
+
+question8=======================================================================================
+
+def is_leap(year):
+    leap = False
+    
+    return(year%4==0 and year%100!=0) or (year%400==0)
+    
+    
+    return leap
+
+
+question9===============================================================
+
+if __name__ == '__main__':
+    n = int(input())
+    s=''
+    for i in range(0,n):
+        s+=str(i+1)
+    print(s)    
+        
+
+question10===============================================================
+
+
+if __name__ == '__main__':
+    x = int(input())
+    y = int(input())
+    z = int(input())
+    n = int(input())
+    print([[i,j,k] for i in range(x+1) for j in range(y+1) for k in range(z+1) if(i+j+k!=n)])
+
