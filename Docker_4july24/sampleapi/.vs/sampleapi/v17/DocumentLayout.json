@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Day_1\\Docker_4july24\\sampleapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7DE854-E409-4DCE-8D1D-2361BF71CA34}|sampleapi\\sampleapi.csproj|c:\\users\\vc\\desktop\\day_1\\docker_4july24\\sampleapi\\sampleapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5C7DE854-E409-4DCE-8D1D-2361BF71CA34}|sampleapi\\sampleapi.csproj|solutionrelative:sampleapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Day_1\\Docker_4july24\\sampleapi\\sampleapi\\Dockerfile",
+              "RelativeDocumentMoniker": "sampleapi\\Dockerfile",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Day_1\\Docker_4july24\\sampleapi\\sampleapi\\Dockerfile",
+              "RelativeToolTip": "sampleapi\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-04T06:19:29.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
